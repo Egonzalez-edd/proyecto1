@@ -1,6 +1,6 @@
 /*
  * Servicio encargdo de consultar, eliminar y dar de lata clientes.
- * To change this template file, choose Tools | Templates
+ * Contiene los recuersos del api.
  * Eduardo Gonzalez.
  */
 package practica.clientes.servicios;
